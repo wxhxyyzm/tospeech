@@ -1,0 +1,22 @@
+{
+  "name": "tospeech",
+  "version": "1.0.0",
+  "description": "try to use microsoft api or others to do my homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxhxyyzm/tospeech.git"
+  },
+  "author": "wxh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wxhxyyzm/tospeech/issues"
+  },
+  "homepage": "https://github.com/wxhxyyzm/tospeech#readme",
+  "dependencies": {
+    "microsoft-cognitiveservices-speech-sdk": "^1.32.0"
+  }
+}
